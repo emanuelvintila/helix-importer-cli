@@ -2,7 +2,7 @@
 
 ## Running
 
-`node index.js [--parallel=true|false] [url'|'outputPath'|'importerPath] [url'|'outputPath'|'importerPath] [...]`
+`node index.js [--parallel=true|false] [<url>'|'<outputPath>'|'<importerPath>] [<url>'|'<outputPath>'|'<importerPath>] [...]`
 
 Note the `|` are literal characters delimiting the `url`, `outputPath`, and `importerPath` for one import job. All 3 parameters are required.
 
