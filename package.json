@@ -1,0 +1,20 @@
+{
+  "name": "helix-importer-cli",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Emanuel Vintilă",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@adobe/helix-importer": "github:adobe/helix-importer",
+    "jsdom": "^24.1.0"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7"
+  }
+}
